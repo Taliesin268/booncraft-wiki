@@ -12,7 +12,7 @@ title: How to Join Booncraft
    - **Server Name:** Booncraft
    - **Server Address:** play.boon-craft.com
 3. Click **Done**, select **Booncraft**, hit **Join Server**.
-4. On first login, read the welcome/rules (`/rules`) and say hi in chat.
+4. On first login, read the welcome (`/rules`) and say hi in chat.
 
 ## Optional Client Mods
 - **Voice Chat:** [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) (install to listen or talk in-game)
